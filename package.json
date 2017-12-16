@@ -1,0 +1,23 @@
+{
+  "name": "comp397-midterm-template",
+  "version": "0.0.1",
+  "description": "Midterm Test using CreateJS",
+  "main": "./Scripts/build/game.js",
+  "scripts": {
+    "server": "lite-server"
+  },
+  "author": "Tom Tsiliopoulos <tsiliopoulos@hotmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "@types/easeljs": "^1.0.0",
+    "@types/preloadjs": "^0.6.32",
+    "@types/soundjs": "^0.6.27",
+    "@types/stats.js": "^0.17.0",
+    "@types/tweenjs": "^0.6.27",
+    "easeljs": "^1.0.2",
+    "preloadjs": "^1.0.1",
+    "soundjs": "^1.0.1",
+    "stats.js": "^0.17.0",
+    "tweenjs": "^1.0.2"
+  }
+}
